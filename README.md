@@ -88,7 +88,7 @@ streamlit run app.py
 
 ## 🎨 Screenshots
 
-*(Optional: Add screenshots of your app here)*
+
 
 ---
 
