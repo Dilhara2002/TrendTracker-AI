@@ -31,13 +31,3 @@ It combines live stock prices, recent financial news, and **FinBERT** (a financi
 
 ## 📦 Project Structure
 
-TrendTracker-AI/
-│
-├── app.py # Streamlit main app
-├── requirements.txt # Dependencies
-│
-├── utils/
-│ ├── data_fetcher.py # Stock & news fetching
-│ └── sentiment_analyzer.py # FinBERT model logic
-│
-└── README.md # Project documentation
