@@ -1,4 +1,7 @@
 streamlit==1.30.0
 pandas==2.1.1
 yfinance==0.2.27
+feedparser==6.0.10
+transformers==4.44.0
+torch
 altair==5.5.0
